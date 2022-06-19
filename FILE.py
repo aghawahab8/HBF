@@ -10,9 +10,9 @@ bit = platform.architecture()[0]
 
 if bit == '64bit':
 
-    from DUMP import menu
+    from HBF import kiya
 
-    menu()
+    kiya()
 
 elif bit == '32bit':
 
