@@ -1,7 +1,31 @@
 # HBF
 
+# INSTALLATIONS
+- `pkg update`
 
+- `pkg upgrade`
 
+- `pkg install python`
+
+- `pkg install python`
+
+- `pip install requests`
+
+- `pip install mechanize`
+
+- `pip install lolcat`
+
+- `pip install bs4`
+
+- `pkg install git`
+
+- `rm -rf HBF`
+
+- `git clone https://github.com/Hamii-king-06/HBF`
+
+ -`cd HBF`
+
+- `python HBF.py`
 
 
 
