@@ -23,7 +23,7 @@
 
 - `git clone https://github.com/Hamii-king-06/HBF`
 
- -`cd HBF`
+ - `cd HBF`
 
 - `python HBF.py`
 
