@@ -1,4 +1,6 @@
 # HBF
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000¢er=true&vCenter=true&width=360&height=60&lines=H B F OWNER + HAMII HERE🔥+🤙+%3Av)](https://git.io/typing-svg)
+
 
 # INSTALLATIONS
 - `pkg update`
