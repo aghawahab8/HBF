@@ -2,20 +2,18 @@ import os, platform
 
 os.system('git pull')
 
-
-
 import requests
 
 bit = platform.architecture()[0]
 
 if bit == '64bit':
 
-    from HBF import menu
+    from HBF import login
 
-    menu()
+    login()
 
 elif bit == '32bit':
 
-    from HBF32 import menu
+    from HBF32 import login
 
-    menu()
+    login()
